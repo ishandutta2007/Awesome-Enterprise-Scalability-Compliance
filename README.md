@@ -67,9 +67,9 @@ Enterprise-ready testing clouds with advanced identity management (SSO/SAML, SCI
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source testing tools, distributed execution engines, Kubernetes-native orchestrators, and enterprise-scale architectural blueprints. **Sorted in descending order by GitHub Stars.**
+Curated open-source testing tools, distributed execution engines, Kubernetes-native orchestrators, and enterprise-scale architectural blueprints. **Sorted in descending order by GitHub_Stars.**
 
-| 🌟 Open-Source Repository | 🏷️ Star Badge | 📜 License | 📝 Overview & Architectural Role |
+| 🌟 Open-Source Repository | 🏷️ Stars_Badge | 📜 License | 📝 Overview & Architectural Role |
 |---|---|---|---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Apache-2.0 | **Cross-browser automation framework for modern web applications.** Provides native auto-waiting, resilient web assertions, tracing, multi-context browser isolation, and parallel execution for enterprise CI/CD systems. |
 | **[Cypress](https://github.com/cypress-io/cypress)** | [![Cypress Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers) | MIT | **Fast, easy, and reliable testing for anything that runs in a browser.** Complete developer-first end-to-end and component testing engine with time-travel debugging, network stubbing, and automatic reloading. |
